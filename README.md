@@ -1,5 +1,5 @@
 # Kahoot_over_WLAN
-Final project of CMPE487 (Applied Computer Networks)
+Final project of CMPE-487 (Applied Computer Networks)
 
 A.Berat Sert - Fahreddin Akalın
 
